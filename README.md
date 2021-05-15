@@ -1,3 +1,3 @@
 # TodoList
 
-TodoList with goland and gin framework
+TodoList with golang and gin framework
