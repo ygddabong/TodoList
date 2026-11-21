@@ -1,0 +1,5 @@
+/server
+/TodoList
+*.exe
+.DS_Store
+.vscode/
